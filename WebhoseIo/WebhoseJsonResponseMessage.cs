@@ -1,11 +1,11 @@
 using System;
+using System.Threading.Tasks;
 using Newtonsoft.Json.Linq;
 
 namespace Webhoseio
 {
 #if !NET35 && !NET40
-    using System.Threading.Tasks;
-
+    
 #endif
 
     public class WebhoseJsonResponseMessage
