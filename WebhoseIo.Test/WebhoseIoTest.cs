@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Webhoseio;
-
-namespace webhoseIo.Test
+namespace WebhoseIo.Test
 {
     [TestClass]
     public class WebhoseIoTest
